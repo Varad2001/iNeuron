@@ -1,3 +1,0 @@
-seaborn:seaborn.txt
-seaborn:seaborn.txt
-maths:maths.txt
